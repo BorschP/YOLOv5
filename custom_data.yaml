@@ -1,0 +1,8 @@
+
+train: /content/train_data2/images/train  # train images 
+val: /content/train_data2/images/val  # val images 
+
+nc: 2
+# Classes
+names: ['smoke','fire']
+  
